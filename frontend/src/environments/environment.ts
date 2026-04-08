@@ -1,5 +1,5 @@
 export const environment = {
-  apiUrl: 'http://localhost:5000'
+  apiUrl: 'https://angulartasklab-1.onrender.com'
 };
 
 // apiUrl: 'https://tt4-2930-be.onrender.com'
